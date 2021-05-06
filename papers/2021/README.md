@@ -1,7 +1,7 @@
 # On the Authenticity of prose writings attributed to Śaṅkara
 
-Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia
-Jacek Bąkowski, Jagiellonian University, Cracow, Poland
+Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia<br />
+Jacek Bąkowski, Jagiellonian University, Cracow, Poland<br />
 
 This directory contains code and data for the following paper:
 On the Authenticity of prose writings attributed to Śaṅkara
@@ -10,8 +10,8 @@ On the Authenticity of prose writings attributed to Śaṅkara
 The folder data/corpus contains all texts used with the General Imposters Framework.
 
 ## Unsandhi operation
-In data/corpus-unsandhied you will find the original texts before unsandhi operation.
-The unsandhi operation was realised with the Sanskrit Sandhi and Compound Splitter developed by Oliver Hellwig & Sebastian Nehrdichwhich is available here: https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp
+In data/corpus-unsandhied you will find the original texts before unsandhi operation.<br />
+The unsandhi operation was realised with the Sanskrit Sandhi and Compound Splitter developed by Oliver Hellwig & Sebastian Nehrdichi which is available here: https://github.com/OliverHellwig/sanskrit/tree/master/papers/2018emnlp <br />
 
 This operation was performed with Python v3.5.2, TensorFlow v1.8.0
 
