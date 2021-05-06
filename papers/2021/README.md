@@ -1,8 +1,10 @@
 # On the Authenticity of prose writings attributed to Śaṅkara
 
-This directory contains code and data for the following paper:
+Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia
+Jacek Bąkowski, Jagiellonian University, Cracow, Poland
 
-Ivan Andrijanić, Jacek Bąkowski: On the Authenticity of prose writings attributed to Śaṅkara
+This directory contains code and data for the following paper:
+On the Authenticity of prose writings attributed to Śaṅkara
 
 ## Corpus of texts
 The folder data/corpus contains all texts used with the General Imposters Framework.
