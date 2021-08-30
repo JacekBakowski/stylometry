@@ -1,10 +1,12 @@
 # On the Authenticity of prose writings attributed to Śaṅkara
+# Stylometry then and now: Authorship verification of Vivekacūḍāmaṇi and Vedāntic stotras
 
 Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia<br />
 Jacek Bąkowski, Jagiellonian University, Cracow, Poland<br />
 
 This directory contains code and data for the following paper:
 On the Authenticity of prose writings attributed to Śaṅkara
+Stylometry then and now: Authorship verification of Vivekacūḍāmaṇi and Vedāntic stotras
 
 ## Corpus of texts
 The folder data/corpus contains all texts used with the General Imposters Framework.
