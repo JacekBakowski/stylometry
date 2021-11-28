@@ -1,11 +1,9 @@
-# On the Authenticity of prose writings attributed to Śaṅkara
 # Stylometry then and now: Authorship verification of Vivekacūḍāmaṇi and Vedāntic stotras
 
 Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia<br />
 Jacek Bąkowski, Jagiellonian University, Cracow, Poland<br />
 
 This directory contains code and data for the following paper:
-On the Authenticity of prose writings attributed to Śaṅkara
 Stylometry then and now: Authorship verification of Vivekacūḍāmaṇi and Vedāntic stotras
 
 ## Corpus of texts
@@ -23,4 +21,3 @@ Stylometry analysis was performed with the package stylo developed in R by Macie
 Eder, M., Rybicki, J. and Kestemont, M. (2016). Stylometry with R: a package for computational text analysis. R Journal, 8(1): 107-21. https://journal.r-project.org/archive/2016/RJ-2016-007/index.html
 
 Source code is available here: https://github.com/computationalstylistics/stylo
-
