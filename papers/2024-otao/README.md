@@ -1,7 +1,7 @@
 # On the authenticity of prose writings attributed to Śaṅkara 
 
-Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia<br />
-Jacek Bąkowski, Institute of Polish Language, Polish Academy of Sciences, Cracow, Poland<br />
+Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia.<br />
+Jacek Bąkowski, Institute of Polish Language, Polish Academy of Sciences, Cracow, Poland.<br />
 
 This directory contains code and data for the following paper:
 On the authenticity of prose writings attributed to Śaṅkara
