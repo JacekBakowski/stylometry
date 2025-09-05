@@ -13,7 +13,6 @@ The full paper is available here: https://doi.org/10.60018/AcAsVa.npqm2712
 ## Funding
 This research was funded in part – covering entire J. B. contribution – by the Poland's National Science Centre, grant number 2021/43/O/HS2/02392.<br />
 <br />
-<br />
 
 ## Corpus of texts
 The folder data/corpus contains all texts used with the General Imposters Framework.
