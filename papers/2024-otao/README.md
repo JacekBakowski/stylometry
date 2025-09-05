@@ -1,10 +1,15 @@
 # On the authenticity of prose writings attributed to Śaṅkara 
 
 Ivan Andrijanić, Department of Indology and Far Eastern studies of the University of Zagreb, Croatia.<br />
-Jacek Bąkowski, Institute of Polish Language, Polish Academy of Sciences, Cracow, Poland.<br />
+Jacek Bąkowski, Institute of Polish Language, Polish Academy of Sciences, Kraków, Poland.<br />
 
 This directory contains code and data for the following paper:
-On the authenticity of prose writings attributed to Śaṅkara
+On the authenticity of prose writings attributed to Śaṅkara.
+
+The full paper is available here: https://doi.org/10.60018/AcAsVa.npqm2712
+
+## Funding
+This research was funded in part – covering entire J. B. contribution – by the Poland's National Science Centre, grant number 2021/43/O/HS2/02392.
 
 ## Corpus of texts
 The folder data/corpus contains all texts used with the General Imposters Framework.
@@ -21,3 +26,6 @@ Stylometry analysis was performed with the package stylo developed in R by Macie
 Eder, M., Rybicki, J. and Kestemont, M. (2016). Stylometry with R: a package for computational text analysis. R Journal, 8(1): 107-21. https://journal.r-project.org/archive/2016/RJ-2016-007/index.html
 
 Source code is available here: https://github.com/computationalstylistics/stylo
+
+## License
+This work is published under the CC-BY 4.0 license.
